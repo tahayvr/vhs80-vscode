@@ -1,0 +1,38 @@
+{
+	"name": "vhs80",
+	"displayName": "VHS80",
+	"description": "A muted 80s retro theme.",
+	"version": "1.0.0",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.103.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"taha",
+		"dark",
+		"omarchy",
+		"vhs",
+		"low distraction",
+		"retro"
+	],
+	"publisher": "TahaYVR",
+	"homepage": "https://taha.gg",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tahayvr/vhs80-vscode.git"
+	},
+	"icon": "./assets/icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "VHS80",
+				"uiTheme": "hc-black",
+				"path": "./themes/VHS80-color-theme.json"
+			}
+		]
+	}
+}
