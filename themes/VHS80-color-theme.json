@@ -342,6 +342,11 @@
 		"gitDecoration.ignoredResourceForeground": "#8A8A8D",
 		"gitDecoration.conflictingResourceForeground": "#8B7F2E",
 		"gitDecoration.submoduleResourceForeground": "#2F8383",
+
+		// Notebook / Jupyter
+		"notebook.outputContainerBackgroundColor": "#121212",
+		"notebook.outputContainerBorderColor": "#121212",
+
 		"settings.headerForeground": "#EAEAEA",
 		"settings.modifiedItemIndicator": "#A85511",
 		"settings.dropdownBackground": "#121212",
